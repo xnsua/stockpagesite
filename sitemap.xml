@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://xnsua.github.io/stockpagesite/posts/my-first-post/</loc>
+    <lastmod>2018-12-06T16:47:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xnsua.github.io/stockpagesite/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://xnsua.github.io/stockpagesite/</loc>
+    <lastmod>2018-12-06T16:47:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://xnsua.github.io/stockpagesite/posts/</loc>
+    <lastmod>2018-12-06T16:47:55+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xnsua.github.io/stockpagesite/tags/</loc>
     <priority>0</priority>
   </url>
   
